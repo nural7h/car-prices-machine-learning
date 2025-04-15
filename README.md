@@ -75,4 +75,4 @@ The dataset contains **16 explanatory variables** and one **response variable**:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ev-car-price-regression.git
+   git clone https://github.com/nural7h/car-prices-machine-learning
